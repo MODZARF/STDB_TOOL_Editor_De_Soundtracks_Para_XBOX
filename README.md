@@ -27,7 +27,7 @@ Este proyecto nació de una idea simple y se convirtió en una herramienta compl
 
 ### 🚀 Cómo Usarlo
 
-1.  Ejecuta el archivo `STB_Tool_BY_ZARF.exe`.
+1.  Ejecuta el archivo `STDB_Tool_BY_ZARF.exe`.
 2.  Configura tus ajustes de conexión FTP en el botón **AJUSTES**.
 3.  Usa el botón central **CONECTAR** para establecer la conexión con tu Xbox.
 4.  **Panel Izquierdo (Lista de Reproducción):** Administra tus listas. Dale **click derecho** para ver las opciones de Crear / Renombrar / Eliminar.
