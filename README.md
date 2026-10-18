@@ -10,7 +10,7 @@ Proyecto **Open Source** desarrollado con asistencia de **IA (Meta AI)**. Una so
 ![License](https://img.shields.io/badge/licencia-MIT-brightgreen)
 
 ### 🎨 Del Boceto a la Realidad
-Este proyecto nació de una idea simple y se convirtió en una herramienta completa, manteniendo fiel el diseño original.
+Este proyecto nació de una idea simple y se convirtió en una herramienta completa.
 
 ### ✨ Características
 
@@ -42,6 +42,7 @@ Si quieres ejecutar los scripts `main.py` y `main_ui.py` directamente, necesitas
 
 ```bash
 pip install Pillow
+```
 
 ### 👥 Créditos y Agradecimientos
 
