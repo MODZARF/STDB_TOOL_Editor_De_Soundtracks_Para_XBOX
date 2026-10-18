@@ -1,4 +1,4 @@
-# STB_TOOL
+# STDB_TOOL
 
 > Herramienta de Python con interfaz gráfica para crear y administrar listas de reproducción de la Xbox Clásica.
 
